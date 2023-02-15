@@ -1,7 +1,8 @@
+![logo](https://github.com/Gulina123/Gulina123/blob/main/Blue%20Modern%20Tips%20Business%20Banner.png)
 <h1 align="center">Hi 👋, I'm Gulina Khan</h1>
 <h3 align="center">Bs Computer Science Student</h3>
 
-<img align="right" alt="pc" width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F15215756-Coding-Animation-Concept&psig=AOvVaw007qBoxFmPfNFGW4sUMHKF&ust=1676571074048000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDFtZqQmP0CFQAAAAAdAAAAABAD">
+<img align="right" alt="coding" width="400" src ="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gulina123&label=Profile%20views&color=0e75b6&style=flat" alt="gulina123" /> </p>
 
